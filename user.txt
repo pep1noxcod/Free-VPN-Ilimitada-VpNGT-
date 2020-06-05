@@ -1,0 +1,3 @@
+host :server1.freevpn.me
+username:freevpn.me
+password:7qXPjHSZQ4Uv
